@@ -4,7 +4,6 @@ org\librenote\mc\cardinal\communication\DiscordWebhook$EmbedObject$Author.class
 org\librenote\mc\cardinal\communication\DiscordWebhook$EmbedObject$Thumbnail.class
 org\librenote\mc\cardinal\communication\DiscordWebhook$EmbedObject$Image.class
 org\librenote\mc\cardinal\communication\communication.class
-org\librenote\mc\cardinal\communication\events.class
 org\librenote\mc\cardinal\communication\DiscordWebhook$EmbedObject$Field.class
 org\librenote\mc\cardinal\communication\DiscordWebhook.class
 org\librenote\mc\cardinal\communication\DiscordWebhook$JSONObject.class
