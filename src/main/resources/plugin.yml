@@ -1,0 +1,4 @@
+name: cardinal-communication
+version: 1.0
+api-version: 1.17
+main: org.librenote.mc.cardinal.communication.communication
